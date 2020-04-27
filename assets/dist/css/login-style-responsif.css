@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+
+    .modal-footer .btn {
+        margin-bottom: 0px !important;
+    }
+
+    .btn {
+        margin-bottom: 5px;
+    }
+
+}

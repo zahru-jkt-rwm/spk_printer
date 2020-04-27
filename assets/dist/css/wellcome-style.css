@@ -1,0 +1,14 @@
+.wrapper .box .container .row .col-lg-4{
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 40px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.wrapper .box{
+	margin-bottom: 0px;
+}
+.container .navbar-header .logo{
+	min-width: 300px;
+	color: black;
+}
